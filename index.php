@@ -50,13 +50,15 @@
                     <div class="modal-body">
                         <?php
                             include 'cadastro.php';
-                        ?>
+                            ?>
+                        </div>
+                        </div>
                     </div>
                 </div>
             </div>
-        <footer>
-            <hr/>
-            <center><b>Sistema de Cadastro - Alexandre C. Zanin</b></center>
-        </footer>
-    </body>
-</html>
+            <footer>
+                <hr/>
+                <center><b>Sistema de Cadastro - Alexandre C. Zanin</b></center>
+            </footer>
+        </body>
+    </html>
